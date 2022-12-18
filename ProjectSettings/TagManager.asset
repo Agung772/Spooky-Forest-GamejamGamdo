@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Tangga
+  - Ladder
+  - NPC
+  - Tuas
+  - Obstacle
+  - KuntiSensor
+  - Kunti
+  - SensorFlashlight
+  - NpcSpawn
+  - CutScene
+  - AntiKunti
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Ground
+  - Jembatan
+  - PostProcessing
+  - Not in Reflection
+  - Player
+  - Meja&Bangku
+  - Ladder
+  - SensorGround
+  - Proyectil
+  - Duri
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
