@@ -37,4 +37,12 @@ public class StoryMamager : MonoBehaviour
         }
 
     }
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.KeypadEnter) || Input.GetKeyDown(KeyCode.Space))
+        {
+            SceneManager.LoadScene("SceneSawah");
+        }
+    }
 }
